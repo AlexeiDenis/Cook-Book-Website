@@ -1,13 +1,9 @@
 # 👨‍⚖️ Cook-Book Website
 > Personal project
 
-![HomePage](homepage.png)
-
 ## 📘 General Information
 - This website I wanted to be more like a digital choice for a recipes notebook/book.
 - The website was made in React with React Redux, JSON Server.
-
-
 
 
 
