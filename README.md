@@ -1,4 +1,4 @@
-# 👨‍⚖️ Cook-Book Website
+# 🧑‍🍳 Cook-Book Website
 > Personal project
 
 ## 📘 General Information
