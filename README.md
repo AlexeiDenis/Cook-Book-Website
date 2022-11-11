@@ -16,7 +16,7 @@
 
 
 ## 👀 Video Example
-[![Watch the video](https://i.imgur.com/IYaEjx5.png)](https://youtu.be/sKUinpLNpHY)
+[![Watch the video](https://i.imgur.com/Rd7YaCR.png)](https://youtu.be/sKUinpLNpHY)
 
 
 
