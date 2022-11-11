@@ -16,12 +16,8 @@
 
 
 ## 👀 Video Example
-- This GIF shows how an admin add products, auction items and how a user bids.
-![Showcase Project](showcase.gif)
+[![Watch the video](https://i.imgur.com/IYaEjx5.png)](https://youtu.be/sKUinpLNpHY)
 
-- If the auction item have a starting date greater than today, the user will not be able to add bids to that auction.
-
-![Auction Starting in the future](FutureDate.png)
 
 
 
