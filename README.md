@@ -3,7 +3,7 @@
 
 ## 📘 General Information
 - This website I wanted to be more like a digital choice for a recipes notebook/book.
-- The website was made in React with React Redux, JSON Server.
+- The website was made in React with React Redux and JSON Server for the backend.
 
 
 
